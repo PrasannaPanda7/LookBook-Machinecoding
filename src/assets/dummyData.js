@@ -3,25 +3,6 @@ export const looks = [
     id: 1,
     media: [
       {
-        type: "video",
-        url: "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-        products: [
-          {
-            id: 5,
-            name: "Complete Outfit",
-            price: 449.99,
-            position: { x: 50, y: 50 },
-          },
-        ],
-      },
-    ],
-    likes: 15000,
-    saved: false,
-  },
-  {
-    id: 2,
-    media: [
-      {
         type: "image",
         url: "https://i.imgur.com/OB0y6MR.jpg",
         products: [
@@ -78,6 +59,25 @@ export const looks = [
             name: "Black Dress Shoes",
             price: 129.99,
             position: { x: 50, y: 90 },
+          },
+        ],
+      },
+    ],
+    likes: 15000,
+    saved: false,
+  },
+  {
+    id: 2,
+    media: [
+      {
+        type: "video",
+        url: "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        products: [
+          {
+            id: 5,
+            name: "Complete Outfit",
+            price: 449.99,
+            position: { x: 50, y: 50 },
           },
         ],
       },
