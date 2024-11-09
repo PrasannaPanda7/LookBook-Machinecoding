@@ -1,9 +1,9 @@
 # Deployed Url
-  -https://lookbook-machinecoding.netlify.app/
+https://lookbook-machinecoding.netlify.app/
 # Steps to run it
-  -git clone git@github.com:PrasannaPanda7/LookBook-Machinecoding.git
-  -npm install 
-  -npm run dev
+1. git clone git@github.com:PrasannaPanda7/LookBook-Machinecoding.git
+2. npm install 
+3. npm run dev
 # App snapshots
   ![image](https://github.com/user-attachments/assets/f8ad5333-958a-432a-82f2-f94e81d15dad)
   ![image](https://github.com/user-attachments/assets/bfe5c6f9-4e22-4007-85a5-e6124f2332d9)
